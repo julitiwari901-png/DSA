@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/julitiwari901-png/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/julitiwari901-png/DSA/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/julitiwari901-png/DSA/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/julitiwari901-png/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/julitiwari901-png/DSA/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/julitiwari901-png/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/julitiwari901-png/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
