@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/julitiwari901-png/DSA/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/julitiwari901-png/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/julitiwari901-png/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/julitiwari901-png/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/julitiwari901-png/DSA/tree/master/0118-pascals-triangle) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/julitiwari901-png/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/julitiwari901-png/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/julitiwari901-png/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/julitiwari901-png/DSA/tree/master/0268-missing-number) |
