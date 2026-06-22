@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/julitiwari901-png/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/julitiwari901-png/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/julitiwari901-png/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/julitiwari901-png/DSA/tree/master/0412-fizz-buzz) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/julitiwari901-png/DSA/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/julitiwari901-png/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
