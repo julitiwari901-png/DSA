@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/julitiwari901-png/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/julitiwari901-png/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/julitiwari901-png/DSA/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/julitiwari901-png/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/julitiwari901-png/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/julitiwari901-png/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
